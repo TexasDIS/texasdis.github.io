@@ -1,4 +1,4 @@
-import{Q as n}from"./QPage.78a69d70.js";import{_ as r,A as o,U as i,V as d,W as l,X as c,a3 as p,Y as m}from"./index.ff5cb82b.js";var h=`# What is TDIS?\r
+import{Q as n}from"./QPage.77ceec9c.js";import{$ as r,A as o,a0 as i,a1 as d,a2 as l,a3 as c,aa as p,a4 as m}from"./index.ee6be7d0.js";var h=`# What is TDIS?\r
 TDIS is a stakeholder-driven, web-based spatial data services architecture designed to support decision making at the state level for a more resilient Texas.\r
 \r
 TDIS is funded by the Texas General Land Office Community Development and Revitalization(GLO-CDR) Contract 20-165-000-C238. The TDIS project is implemented with the goal of ensuring that the data and tools will be open source, accessible, and usable. The stakeholders and users of TDIS are engineers, analysts, planners, and decision makers at local, state, and federal agencies. The success of TDIS rests on delivering services and tools that our local, state, and federal stakeholders want and use.\r

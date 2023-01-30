@@ -1,4 +1,4 @@
-import{Q as l}from"./QPage.cf50efc5.js";import{_ as c,A as p,U as h,V as n,W as i,X as u,a3 as s,Z as m,ab as g,ac as f}from"./index.702c2469.js";var v=`# Executive Summary
+import{Q as l}from"./QPage.77ceec9c.js";import{$ as c,A as p,a0 as h,a1 as n,a2 as i,a3 as u,aa as s,a5 as m,ab as g,ac as f}from"./index.ee6be7d0.js";var v=`# Executive Summary
 
 The Texas Disaster Information System (TDIS) will be an interactive, web-based spatial data system designed to support disaster preparedness, response, recovery, and mitigation for the State of Texas. At present, multiple  federal, state, and local agencies are collecting and using data to respond and mitigate against the effects of numerous disaster events in Texas.  However, disaster information is often fragmented, poorly maintained, and difficult to access. This lack of data coherency limits the ability of responders, planners, grantmakers, and researchers to support disaster resilience. 
 
