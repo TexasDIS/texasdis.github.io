@@ -1,4 +1,4 @@
-import{Q as n}from"./QPage.157589c0.js";import{a4 as r,t as o,a5 as i,a6 as d,a7 as l,a8 as c,ac as p,a9 as m}from"./index.e3a77758.js";var h=`# What is TDIS?\r
+import{Q as n}from"./QPage.a2fd5198.js";import{a4 as r,t as o,a5 as i,a6 as d,a7 as l,a8 as c,ac as p,a9 as m}from"./index.ff52863b.js";var h=`# What is TDIS?\r
 TDIS is a stakeholder-driven, web-based spatial data services architecture designed to support decision making at the state level for a more resilient Texas.\r
 \r
 TDIS is funded by the Texas General Land Office Community Development and Revitalization(GLO-CDR) Contract 20-165-000-C238. The TDIS project is implemented with the goal of ensuring that the data and tools will be open source, accessible, and usable. The stakeholders and users of TDIS are engineers, analysts, planners, and decision makers at local, state, and federal agencies. The success of TDIS rests on delivering services and tools that our local, state, and federal stakeholders want and use.\r
@@ -41,4 +41,4 @@ Porter, B., Reichman, J., Barr, B., Brody, S.D. (2021). Texas Disaster Informati
 Plan. Institute for a Disaster Resilient Texas. Texas A&M University, Galveston Campus.\r
 \r
 The TDIS Development Roadmap is coming soon!\r
-`;const u=o({name:"AboutPage",data(){return{markdown:h}},mounted(){console.log(this.$route.path),this.$route.path;for(var e=document.querySelectorAll(".q-markdown--link-local"),a=0,s=e.length;a<s;a++)e[a].href="javascript:void(0)",console.log(e[a].href)}}),f={class:"col-12 q-ma-xl"};function g(e,a,s,T,v,b){const t=i("q-markdown");return d(),l(n,{class:"row"},{default:c(()=>[p("div",f,[m(t,{src:e.markdown,disable:!0,class:"q-pa-md markdown-disabled"},null,8,["src"])])]),_:1})}var D=r(u,[["render",g],["__scopeId","data-v-4be8c35a"]]);export{D as default};
+`;const u=o({name:"AboutPage",data(){return{markdown:h}},mounted(){console.log(this.$route.path),this.$route.path;for(var e=document.querySelectorAll(".q-markdown--link-local"),a=0,s=e.length;a<s;a++)e[a].href="javascript:void(0)",console.log(e[a].href)}}),f={class:"col-12 q-ma-xl"};function g(e,a,s,T,v,b){const t=i("q-markdown");return d(),l(n,{class:"row"},{default:c(()=>[p("div",f,[m(t,{src:e.markdown,disable:!0,class:"q-pa-md markdown-disabled"},null,8,["src"])])]),_:1})}var D=r(u,[["render",g],["__scopeId","data-v-b0c22e14"]]);export{D as default};
