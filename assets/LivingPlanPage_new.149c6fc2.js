@@ -1,4 +1,5 @@
-var e=`# Executive Summary
+import{a4 as r,t as d,a5 as l,a6 as c,a7 as p,a8 as n,ac as h,a9 as s,ag as t,Q as u}from"./index.f040b4c4.js";import{Q as m}from"./QPage.312be535.js";import{E as g}from"./executiveSummary.fe06c584.js";const f=d({name:"LivingPlanPage",data(){return{planSections:[g]}},computed:{currentRouteName(){return this.$route.name}},mounted(){console.log(this.$route.path),this.$route.path;for(var e=document.querySelectorAll(".q-markdown--link-local"),a=0,i=e.length;a<i;a++)e[a].href="javascript:void(0)",console.log(e[a].href)},methods:{onToc(e){this.toc=this.$refs.markdown.makeTree(e),console.log(this.toc)}}}),v={class:"q-ma-xl"};function T(e,a,i,w,y,S){const o=l("q-markdown");return c(),p(m,{class:"row"},{default:n(()=>[h("div",v,[s(o,{src:`
+# Executive Summary
 
 The Texas Disaster Information System (TDIS) will be an interactive, web-based spatial data system designed to support disaster preparedness, response, recovery, and mitigation for the State of Texas. At present, multiple federal, state, and local agencies are collecting and using data to respond and mitigate against the effects of numerous disaster events in Texas. However, disaster information is often fragmented, poorly maintained, and difficult to access. This lack of data coherency limits the ability of responders, planners, grantmakers, and researchers to support disaster resilience.
 
@@ -25,7 +26,7 @@ TDIS will operate with the following key principles:
 
 ## Planning Approach
 
-The TDIS plan is "evergreen," meaning it will be reviewed and revised at regular intervals over the course of the TDIS lifecycle with updated versions published at least annually. This initial version of the Living Plan summarizes and reflects the overarching conceptual design considerations and best practices for developing information systems. Concepts in this plan will continue to be developed, revised, and adapted on a regular basis throughout future TDIS implementation phases.
+The TDIS plan is 'evergreen', meaning it will be reviewed and revised at regular intervals over the course of the TDIS lifecycle with updated versions published at least annually. This initial version of the Living Plan summarizes and reflects the overarching conceptual design considerations and best practices for developing information systems. Concepts in this plan will continue to be developed, revised, and adapted on a regular basis throughout future TDIS implementation phases.
 
 ### Initial Planning Focus
 
@@ -49,7 +50,7 @@ The environment of flood-related projects and stakeholders in Texas is rich, pre
 
 TDIS products and services will operate on a continuum, ranging from providing access to raw data to sophisticated analysis and visualizations that support decision making. These services will be utilized by partners for various short and long-term purposes within the disaster life cycle.
 
-The TDIS planning team identified and prioritized specific user "personas" to fine-tune thinking about user needs and interests. These personas can be grouped into three key categories of users: (1) end-users of analytical products; (2) developers of analytical products; and (3) those who provide the foundational data and knowledge that will feed all TDIS services.
+The TDIS planning team identified and prioritized specific user 'personas' to fine-tune thinking about user needs and interests. These personas can be grouped into three key categories of users: (1) end-users of analytical products; (2) developers of analytical products; and (3) those who provide the foundational data and knowledge that will feed all TDIS services.
 
 ## Conceptual Architecture - Services and Design
 
@@ -79,18 +80,19 @@ Once ingested, TDIS\u2019 data will be stored within data management services de
 
 TDIS has a technical team that brings deep subject matter expertise. Managed by the IDRT Executive Director and TDIS Director, the principal staffing roles will include a nimble core set of seven technical expert areas including 1) Systems Administration, 2) Data Management Services, 3) Software Services and Application Protocols (APIs), 4) Intelligent Decision Support Systems (iDSS), 5) Applied Research & Use Case development, 6) Program Management, and 7) Data Agreements. The figure below shows the planned Organizational Chart for the core Technical Team.
 
-![](/images/livingplan/Proposed_TDIS_Organizational_Structure)
+![] (https://hackmd.io/_uploads/HJmAdtQp_.png)
 _Proposed TDIS Organizational Structure_
 
 ## Development Roadmap and Timeline
 
-TDIS is on a 3-year timeline to develop an initial design, implementation strategy, testing and evaluation protocols, and two themed "service bundles". These service bundles will provide evidence of initial proof-of-concepts, visualizations and graphics, conceptual system design, and workflows. The two service bundles will include:
+TDIS is on a 3-year timeline to develop an initial design, implementation strategy, testing and evaluation protocols, and two themed 'service bundles'. These service bundles will provide evidence of initial proof-of-concepts, visualizations and graphics, conceptual system design, and workflows. The two service bundles will include:
 
 1. TDIS Risk Tools for Hazard Assessment, Planning and Evaluation specifically focused on flood hazards
 2. TDIS Mitigation Strategies and Program Tracking
 
 To accomplish these goals, TDIS will follow an iterative design-build-test cycle, which will enable continuous improvement and refinement of TDIS services over time. In year one and two of the project, proof-of-concept and prototype services will be developed. After initial testing core capabilities will be transitioned to production.
 
-![](/images/livingplan/TDIS_Roadmap.png)
+![] (https://hackmd.io/_uploads/ryf0cp4HF.png)
 _TDIS Roadmap_
-`;export{e as E};
+
+`},{default:n(()=>[t("      ")]),_:1}),t(" --> "),s(u,{href:"/documents/tdisplan_v1.0.pdf",download:"",color:"info"},{default:n(()=>[t("Download Plan")]),_:1})])]),_:1})}var k=r(f,[["render",T]]);export{k as default};
